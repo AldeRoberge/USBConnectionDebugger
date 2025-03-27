@@ -38,7 +38,7 @@ namespace USBConnectionDebugger
                 // Keep the application running indefinitely.
                 while (true)
                 {
-                    System.Threading.Thread.Sleep(1000);
+                    Thread.Sleep(1000);
                 }
             }
             catch (Exception ex)
