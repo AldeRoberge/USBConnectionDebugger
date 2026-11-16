@@ -1,13 +1,15 @@
-# 🔌 USB Disconnect Logger
+<!-- lang -->**Français** | [English](README.en.md)
 
-**Tired of that one USB device that keeps randomly disconnecting?**
-You're not alone.
+# 🔌 Journal des déconnexions USB (USB Disconnect Logger)
 
-Is it the **cable**? The **port**? The **drivers**? The **device** itself?
-Or maybe it's your **PC**? 😤
+**Vous en avez assez de cet appareil USB qui se déconnecte au hasard?**
+Vous n'êtes pas seul.
 
-Whatever the cause — stop guessing.
-Start **logging every single USB connect/disconnect event** automatically.
+Est-ce le **câble**? Le **port**? Les **pilotes**? L'**appareil** lui-même?
+Ou peut-être votre **PC**? 😤
+
+Peu importe la cause — arrêtez de deviner.
+Commencez à **journaliser chaque événement de connexion et de déconnexion USB** automatiquement.
 
 ---
 
@@ -15,21 +17,21 @@ Start **logging every single USB connect/disconnect event** automatically.
 
 ---
 
-## ⚙️ What It Does
+## ⚙️ Fonctionnalités
 
-This simple utility **records every USB device event** on your system:
+Cet utilitaire simple **enregistre chaque événement USB** sur votre système :
 
-* 🧩 Detects all **USB connect** and **disconnect** actions in real-time
-* 🕒 Logs **timestamps**, **device names**, and **IDs**
-* 🪵 Saves everything to a clean, easy-to-read log file
+* 🧩 Détecte toutes les actions de **connexion USB** et de **déconnexion USB** en temps réel
+* 🕒 Consigne les **horodatages**, les **noms des appareils** et les **identifiants**
+* 🪵 Enregistre le tout dans un fichier journal clair et facile à lire
 
-## 🪟 Compatibility
+## 🪟 Compatibilité
 
-✅ **Windows only**
+✅ **Windows seulement**
 
 
-## 💘 Why You’ll Love It
+## 💘 Pourquoi vous allez l'adorer
 
-* Lightweight and fast
-* No install required (just run it)
-* Stops the frustration of “which USB is it this time?”
+* Léger et rapide
+* Aucune installation requise (il suffit de l'exécuter)
+* Fini la frustration du « quel USB est-ce cette fois-ci? »
